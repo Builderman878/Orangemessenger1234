@@ -1,0 +1,7 @@
+{
+  "flags": {
+    "featureEnabled": true,
+    "maintenanceMode": true, 
+    "newUI": true
+  }
+}
